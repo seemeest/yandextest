@@ -1,0 +1,6 @@
+@yandextest_HostAddress = http://localhost:5105
+
+GET {{yandextest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
